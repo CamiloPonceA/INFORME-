@@ -54,7 +54,8 @@
 ![image](https://user-images.githubusercontent.com/84587055/120576999-46598400-c3e9-11eb-9357-df825f6a47db.png)
 
 # 4.	VIDEO
-.
+https://youtu.be/LXpwzUNxlmA
+
 # 5.	CONCLUSIONES
 Las magnitudes eléctricas tanto como las magnitudes mecánicas las cuales se encuentran contempladas en el sistema internacional 
 SI- guardan estrecha interrelación tanto en su transformación como en su empleo en notación ingenieril por lo tanto al comprender 
